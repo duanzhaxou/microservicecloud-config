@@ -39,7 +39,7 @@ info:
   author: 段朝旭
 ---
 server:
-  port: 8001  
+  port: 8081
 spring:
  profiles: dev   
 ---
